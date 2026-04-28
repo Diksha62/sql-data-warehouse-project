@@ -88,9 +88,9 @@ data-warehouse-project/
 ---
 
 
-**🎯 Project Goal**
-The purpose of this project is to demonstrate how to:
+**🎯 Project Goal**:
 
+The purpose of this project is to demonstrate how to:
 Build a scalable SQL data warehouse
 Implement ETL pipelines
 Design analytical data models
