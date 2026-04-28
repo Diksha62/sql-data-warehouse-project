@@ -5,6 +5,7 @@ Welcome to the **Data Warehouse & Analytics Project repository** 🚀
 This project presents an end-to-end data warehousing and analytics solution, covering everything from warehouse development to business insight generation. It is designed as a portfolio project that demonstrates practical data engineering and analytics best practices. 
 
 🏗️** **Data Architecture****
+
 This project follows the Medallion Architecture approach using Bronze, Silver, and Gold layers to organize and transform data efficiently.
 Architecture Layers:
 --Bronze Layer
@@ -16,18 +17,23 @@ Focuses on data preparation through cleansing, standardization, and normalizatio
 Contains business-ready datasets modeled using a Star Schema for reporting and analytical use cases.
 
 **📖 Project Summary**
+
 This project includes the following key components:
 
 **Data Architecture**
+
 Designing a modern SQL-based data warehouse using Medallion Architecture layers.
 
 **ETL Development**
+
 Building extraction, transformation, and loading pipelines to move data from source systems into the warehouse.
 
 **Data Modeling**
+
 Creating optimized fact and dimension tables for analytical performance.
 
 **Analytics & Reporting**
+
 Developing SQL-based insights, reports, and dashboards to support business decisions.
 
 ## 🛠️ Important Links & Tools:
@@ -41,7 +47,9 @@ Developing SQL-based insights, reports, and dashboards to support business decis
 - **[Notion Project Steps](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4):** Access to All Project Phases and Tasks.
 
 **🚀 Project Requirements**
+
 Data Warehouse Development (Data Engineering)
+
 Objective: Build  modern SQL Server data warehouse that consolidates sales information from multiple systems to support reporting and informed decision-making.
 
 Specifications
@@ -52,6 +60,7 @@ Scope: Focus only on the latest available dataset; historical tracking is not re
 Documentation: Maintain clear documentation for both technical teams and business users.
 
 **📊 BI Analytics & Reporting (Data Analysis)**
+
 Objective: Develop SQL-driven analytics to generate insights into:
 **-Customer Behavior
 -Product Performance
